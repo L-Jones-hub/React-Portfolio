@@ -25,7 +25,7 @@ function App() {
 
   return (
     <div className="App">
-      <Header>
+      <Header className="header">
         <Nav
           pages={pages}
           setCurrentPage={setCurrentPage}
@@ -35,7 +35,7 @@ function App() {
       <main>
         <Page currentPage={currentPage}></Page>
       </main>
-      <Footer />
+      <Footer className="footer" />
     </div>
   );
 }
