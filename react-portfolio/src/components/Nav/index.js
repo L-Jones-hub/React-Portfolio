@@ -11,7 +11,7 @@ function Nav(props) {
             className={`mx-5 ${currentPage.name === Page.name && "navActive"}`}
             key={Page.name}
           >
-            <span inClick={() => setCurrentPage(Page)}></span>
+            <span onClick={() => setCurrentPage(Page)}></span>
           </li>
         ))}
       </ul>
