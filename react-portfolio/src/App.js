@@ -9,16 +9,16 @@ import Footer from "./components/Footer/index.js";
 function App() {
   const [pages] = useState([
     {
-      name: "about me",
+      name: "About Me",
     },
     {
-      name: "portfolio",
+      name: "Portfolio",
     },
     {
-      name: "contact",
+      name: "Contact",
     },
     {
-      name: "resume",
+      name: "Resume",
     },
   ]);
 

@@ -1,6 +1,5 @@
 import React from "react";
-import image from "../../Lindsey-Jones-Headshot.jpg";
-
+import image from "./Lindsey-Jones-Headshot.jpg";
 
 function About() {
   return (
@@ -12,10 +11,10 @@ function About() {
             src={image}
             alt="Lindsey Jones"
             width="200"
-            height="200"
+            height="350"
             className="float-left"
           />
-          <h1 className="name">Lindsey Jones</h1>
+            <h1 className="name">Lindsey Jones</h1>
           <hr />
           <p className="homepage">
             Full Stack Web Developer with a background in English and Education.

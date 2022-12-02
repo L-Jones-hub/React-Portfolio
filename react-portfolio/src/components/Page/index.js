@@ -1,6 +1,6 @@
 import React from "react";
-import PageContent from "../PageContent";
-import About from "../About";
+// import PageContent from "../PageContent";
+import About from "../About/index";
 import Portfolio from "../Portfolio";
 import Contact from "../Contact";
 import Resume from "../Resume";
@@ -8,13 +8,13 @@ import Resume from "../Resume";
 function Page({ currentPage }) {
   const renderPage = () => {
     switch (currentPage.name) {
-      case "about me":
+      case "About Me":
         return <About />;
-      case "portfolio":
+      case "Portfolio":
         return <Portfolio />;
-      case "contact":
+      case "Contact":
         return <Contact />;
-      case "resume":
+      case "Resume":
         return <Resume />;
       default:
         return <About />;
@@ -23,7 +23,7 @@ function Page({ currentPage }) {
   return (
     <section>
       <h2>{(currentPage.name)}</h2>
-      <PageContent>{renderPage()}</PageContent>
+      {renderPage()}
     </section>
   );
 };
