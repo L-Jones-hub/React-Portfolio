@@ -4,12 +4,7 @@ import Header from "./components/Header/index.js";
 import Nav from "./components/Nav/index.js";
 import Page from "./components/Page/index.js";
 import Footer from "./components/Footer/index.js";
-// import About from "./components/About";
-// import Contact from "./components/Contact";
-// import PageContent from "./components/PageContent";
-// import Portfolio from "./components/Portfolio";
-// import Projects from "./components/Projects";
-// import Resume from "./components/Resume";
+
 
 function App() {
   const [pages] = useState([

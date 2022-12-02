@@ -6,7 +6,7 @@ function Footer() {
       <div className="contact-box justify-content-between mb-5 mt-5 d-none d-md-flex">
         <div>
           <h4>Work Inquiry</h4>
-          <p className="" text-muted>
+          <p className="">
             Let's work together!
           </p>
         </div>
