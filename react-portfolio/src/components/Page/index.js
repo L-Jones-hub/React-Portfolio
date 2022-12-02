@@ -1,5 +1,4 @@
 import React from "react";
-// import PageContent from "../PageContent";
 import About from "../About/index";
 import Portfolio from "../Portfolio";
 import Contact from "../Contact";
@@ -22,11 +21,10 @@ function Page({ currentPage }) {
   };
   return (
     <section>
-      <h2>{(currentPage.name)}</h2>
+      <h2>{currentPage.name}</h2>
       {renderPage()}
     </section>
   );
-};
+}
 
 export default Page;
-
