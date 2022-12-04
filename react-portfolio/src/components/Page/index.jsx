@@ -1,8 +1,8 @@
 import React from "react";
-import About from "../About/index";
-import Portfolio from "../Portfolio";
-import Contact from "../Contact";
-import Resume from "../Resume";
+import About from "../About/index.jsx";
+import Portfolio from "../Portfolio/index.jsx";
+import Contact from "../Contact/index.jsx";
+import Resume from "../Resume/index.jsx";
 
 function Page({ currentPage }) {
   const renderPage = () => {

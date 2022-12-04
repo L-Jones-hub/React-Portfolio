@@ -1,9 +1,9 @@
 import "./App.css";
 import React, { useState } from "react";
-import Header from "./components/Header/index.js";
-import Nav from "./components/Nav/index.js";
-import Page from "./components/Page/index.js";
-import Footer from "./components/Footer/index.js";
+import Header from "./components/Header/index.jsx";
+import Nav from "./components/Nav/index.jsx";
+import Page from "./components/Page/index.jsx";
+import Footer from "./components/Footer/index.jsx";
 
 
 function App() {
