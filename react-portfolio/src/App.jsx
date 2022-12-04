@@ -22,7 +22,7 @@ function App() {
     },
   ]);
 
-  const [currentPage, setCurrentPage] = useState(pages[0]);
+  const [currentPage, setCurrentPage] = useState(pages[1]);
 
   return (
     <div className="App">

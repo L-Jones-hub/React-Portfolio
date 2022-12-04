@@ -1,4 +1,4 @@
-:root {
+/* :root {
   --branding-color: #6c63ff;
   --secondary-color: #f9f7fe;
   --heading-font-family: "Playfair Display", serif;
@@ -160,12 +160,12 @@ footer .contact-box p {
   h4 {
     font-size: 18px;
   }
-
+/* 
   .hero {
     padding: 80px 20px;
-  }
+  } */
 
-  .project-desciption {
+  /* .project-desciption {
     padding: 0;
     text-align: center;
   }
@@ -173,5 +173,4 @@ footer .contact-box p {
     text-align: center;
     padding: 0;
   }
-}
-
+} */
