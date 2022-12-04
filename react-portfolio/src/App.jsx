@@ -36,7 +36,7 @@ function App() {
       <main>
         <Page currentPage={currentPage}></Page>
       </main>
-      <Footer className="footer" />
+      <Footer className="footer"></Footer>
     </div>
   );
 }
