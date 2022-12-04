@@ -1,11 +1,11 @@
-import React, { useEffect } from "react";
+import React from "react";
 
 function Nav(props) {
   const { pages = [], setCurrentPage, currentPage } = props;
 
-  useEffect(() => {
-    document.title = currentPage.name;
-  }, [currentPage]);
+  // useEffect(() => {
+  //   document.title = currentPage.name;
+  // }, [currentPage]);
 
   return (
     <nav>
