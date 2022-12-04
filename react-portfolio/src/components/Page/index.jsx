@@ -3,6 +3,7 @@ import About from "../About/index.jsx";
 import Portfolio from "../Portfolio/index.jsx";
 import Contact from "../Contact/index.jsx";
 import Resume from "../Resume/index.jsx";
+import PageContent from "../PageContent/index.jsx";
 
 function Page({ currentPage }) {
   const renderPage = () => {
@@ -22,7 +23,7 @@ function Page({ currentPage }) {
   return (
     <section>
       <h2>{currentPage.name}</h2>
-      {renderPage()}
+      <PageContent>{renderPage()}</PageContent>
     </section>
   );
 }
