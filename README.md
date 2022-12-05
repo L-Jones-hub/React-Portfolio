@@ -56,4 +56,4 @@ Thank you, Christina, for the suggestion of how to render my projects!
 | Contact Me                                   |
 | -------------------------------------------- |
 | [GitHub](https://www.github.com/L-Jones-hub) |
-| [Email](lindseyjones92@gmail.com)            |
+| [Email](lindseyjones92@gmail.com) |
