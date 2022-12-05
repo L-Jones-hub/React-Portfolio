@@ -1,10 +1,8 @@
 import "./App.css";
 import React, { useState } from "react";
-import Header from "./components/Header/index.jsx";
 import Nav from "./components/Nav/index.jsx";
 import Page from "./components/Page/index.jsx";
 import Footer from "./components/Footer/index.jsx";
-
 
 function App() {
   const [pages] = useState([
@@ -22,21 +20,20 @@ function App() {
     },
   ]);
 
-  const [currentPage, setCurrentPage] = useState(pages[3]);
+  const [currentPage, setCurrentPage] = useState(pages[0]);
 
   return (
     <div className="App">
-      <Header>
-        <Nav
-          pages={pages}
-          setCurrentPage={setCurrentPage}
-          currentPage={currentPage}
-        ></Nav>
-      </Header>
+      <Nav
+        pages={pages}
+        setCurrentPage={setCurrentPage}
+        currentPage={currentPage}
+      ></Nav>
+
       <main>
         <Page currentPage={currentPage}></Page>
       </main>
-      <Footer></Footer>
+      <Footer />
     </div>
   );
 }

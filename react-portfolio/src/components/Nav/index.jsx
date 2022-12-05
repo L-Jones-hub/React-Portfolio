@@ -1,16 +1,17 @@
-import React from "react";
+import React, {useEffect} from "react";
 
 function Nav(props) {
-  const { pages = [], setCurrentPage, currentPage } = props;
+  const { pages, setCurrentPage, currentPage } = props;
+console.log(props)
 
-  // useEffect(() => {
-  //   document.title = currentPage.name;
-  // }, [currentPage]);
+  useEffect(() => {
+    document.title = currentPage?.name;
+  }, [currentPage]);
 
   return (
     <nav>
       <ul className="flex-row">
-        {pages.map((page) => (
+        {pages?.map((page) => (
           <li
             className={`mx-5 ${currentPage.name === page.name && "navActive"}`}
             key={page.name}
