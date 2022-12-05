@@ -1,5 +1,9 @@
 # React-Portfolio
 
+## Deployed Application
+
+<a href="https://l-jones-hub.github.io/React-Portfolio/" title="Deployed React Portfolio" target="_blank">Deployed Site</a>
+
 ## Description
 
 This is a portfolio created to show my React skills.
@@ -19,19 +23,19 @@ This is a portfolio created to show my React skills.
 
 The first page you will see when you open the portfolio will be the About Me page. This page gives an overview of my experience and skills.
 
-![About](./public/images/Portfolio-About.png)
+![About](./src/images/Portfolio-About.png)
 
 If you click on "Portfolio" in the navigation bar, you will see this page. Each card shows a picture of the project, a description, the technologies used, a GitHub link, and a deployed link.
 
-![Projects](./public/images/Portfolio-Projects.png)
+![Projects](./src/images/Portfolio-Projects.png)
 
 If you click on "Contact" in the navigation bar, you will see this page. There are links to email me, see my GitHub, and see my LinkedIn.
 
-![Contact](./public/images/Portfolio-Contact.png)
+![Contact](./src/images/Portfolio-Contact.png)
 
 If you click on "Resume" in the navigation bar, you will see this page. This shows a pdf of my resume, and the pdf is also a link that will take you to my resume in Google Drive.
 
-![Resume](./public/images/Portfolio-Resume.png)
+![Resume](./src/images/Portfolio-Resume.png)
 
 ---
 
@@ -57,7 +61,6 @@ Thank you, Christina, for the suggestion of how to render my projects!
 | -------------------------------------------- |
 | [GitHub](https://www.github.com/L-Jones-hub) |
 | [Email](lindseyjones92@gmail.com)            |
-
 
 # Getting Started with Create React App
 
