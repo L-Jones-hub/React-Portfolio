@@ -19,19 +19,19 @@ This is a portfolio created to show my React skills.
 
 The first page you will see when you open the portfolio will be the About Me page. This page gives an overview of my experience and skills.
 
-![About](./react-portfolio/public/images/Portfolio-About.png)
+![About](./public/images/Portfolio-About.png)
 
 If you click on "Portfolio" in the navigation bar, you will see this page. Each card shows a picture of the project, a description, the technologies used, a GitHub link, and a deployed link.
 
-![Projects](./react-portfolio/public/images/Portfolio-Projects.png)
+![Projects](./public/images/Portfolio-Projects.png)
 
 If you click on "Contact" in the navigation bar, you will see this page. There are links to email me, see my GitHub, and see my LinkedIn.
 
-![Contact](./react-portfolio/public/images/Portfolio-Contact.png)
+![Contact](./public/images/Portfolio-Contact.png)
 
 If you click on "Resume" in the navigation bar, you will see this page. This shows a pdf of my resume, and the pdf is also a link that will take you to my resume in Google Drive.
 
-![Resume](./react-portfolio/public/images/Portfolio-Resume.png)
+![Resume](./public/images/Portfolio-Resume.png)
 
 ---
 
