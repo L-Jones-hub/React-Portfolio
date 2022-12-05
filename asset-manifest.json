@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/static/css/main.44f8b8b5.css",
-    "main.js": "/static/js/main.e15c5e9f.js",
-    "static/media/Lindsey-Jones-Headshot.jpg": "/static/media/Lindsey-Jones-Headshot.740d1d18af82d6bd4702.jpg",
-    "index.html": "/index.html",
-    "main.44f8b8b5.css.map": "/static/css/main.44f8b8b5.css.map",
-    "main.e15c5e9f.js.map": "/static/js/main.e15c5e9f.js.map"
+    "main.css": "/React-Portfolio/static/css/main.44f8b8b5.css",
+    "main.js": "/React-Portfolio/static/js/main.85790b7f.js",
+    "static/media/Lindsey-Jones-Headshot.jpg": "/React-Portfolio/static/media/Lindsey-Jones-Headshot.740d1d18af82d6bd4702.jpg",
+    "index.html": "/React-Portfolio/index.html",
+    "main.44f8b8b5.css.map": "/React-Portfolio/static/css/main.44f8b8b5.css.map",
+    "main.85790b7f.js.map": "/React-Portfolio/static/js/main.85790b7f.js.map"
   },
   "entrypoints": [
     "static/css/main.44f8b8b5.css",
-    "static/js/main.e15c5e9f.js"
+    "static/js/main.85790b7f.js"
   ]
 }
