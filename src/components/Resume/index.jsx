@@ -1,4 +1,5 @@
 import React from "react";
+import resumeImg from "../../images/Resume.png";
 
 function Resume() {
   return (
@@ -17,7 +18,7 @@ function Resume() {
               <img
                 title="Click to see pdf in Google Drive."
                 className="resume col-md-10"
-                src="../../images/Resume.png"
+                src={resumeImg}
                 alt="Resume"
               ></img>
             </a>
