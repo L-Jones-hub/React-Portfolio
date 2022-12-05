@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/react-portfolio/static/css/main.44f8b8b5.css",
+    "main.js": "/react-portfolio/static/js/main.46ccb7fb.js",
+    "static/media/Lindsey-Jones-Headshot.jpg": "/react-portfolio/static/media/Lindsey-Jones-Headshot.740d1d18af82d6bd4702.jpg",
+    "index.html": "/react-portfolio/index.html",
+    "main.44f8b8b5.css.map": "/react-portfolio/static/css/main.44f8b8b5.css.map",
+    "main.46ccb7fb.js.map": "/react-portfolio/static/js/main.46ccb7fb.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.44f8b8b5.css",
+    "static/js/main.46ccb7fb.js"
+  ]
+}
