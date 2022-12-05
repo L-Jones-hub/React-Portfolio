@@ -17,6 +17,7 @@ function Contact() {
             <a
               href="https://www.linkedin.com/in/lindsey-jones-7778b1103/"
               target="_blank"
+              rel="noreferrer"
               title="Lindsey's LinkedIn"
             >
               @LindseyJones
@@ -27,6 +28,7 @@ function Contact() {
             <a
               href="https://github.com/L-Jones-hub"
               target="_blank"
+              rel="noreferrer"
               title="Lindsey's GitHub"
             >
               L-Jones-hub

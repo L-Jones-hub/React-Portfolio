@@ -14,7 +14,7 @@ function About() {
             height="350"
             className="float-left"
           />
-            <h1 className="name">Lindsey Jones</h1>
+            <h1 className="name text-center">Lindsey Jones</h1>
           <hr />
           <p className="homepage">
             Full Stack Web Developer with a background in English and Education.
