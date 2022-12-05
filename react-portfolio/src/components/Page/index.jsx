@@ -22,7 +22,7 @@ function Page({ currentPage }) {
   };
   return (
     <section>
-      <h2>{currentPage.name}</h2>
+      <h2 className="text-center my-3">{currentPage.name}</h2>
       <PageContent>{renderPage()}</PageContent>
     </section>
   );
