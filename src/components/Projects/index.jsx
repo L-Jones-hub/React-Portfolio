@@ -5,6 +5,37 @@ function Projects() {
     <div className="container row col-md-12 d-flex justify-content-center">
       <div className="card m-2 col-3">
         <img
+          src={require("../../images/Password-Generator.png")}
+          className="card-img-top"
+          alt="Password Generator"
+        />
+        <div className="card-body">
+          <h4 className="card-title">Present Picker</h4>
+          <p className="card-text">
+            Create and send wish lists for holidays and more!
+          </p>
+          <p className="card-text">
+            Technologies: React, Bootstrap, Email API, Google Shopping API, CSS
+          </p>
+          <a
+            href="https://github.com/awoelf/Present-Picker"
+            target="_blank"
+            rel="noreferrer"
+          >
+            GitHub
+          </a>{" "}
+          |{" "}
+          <a
+            href="https://present-picker.herokuapp.com/"
+            target="_blank"
+            rel="noreferrer"
+          >
+            Deployed
+          </a>
+        </div>
+      </div>
+      <div className="card m-2 col-3">
+        <img
           src={require("../../images/Dictionary-App.png")}
           className="card-img-top"
           alt="Dictionary App"

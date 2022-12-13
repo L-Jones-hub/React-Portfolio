@@ -1,14 +1,20 @@
 {
   "files": {
     "main.css": "/React-Portfolio/static/css/main.44f8b8b5.css",
-    "main.js": "/React-Portfolio/static/js/main.85790b7f.js",
+    "main.js": "/React-Portfolio/static/js/main.b26084ad.js",
+    "static/media/Recipe-Ready.png": "/React-Portfolio/static/media/Recipe-Ready.8bf9847223f1b48f732e.png",
+    "static/media/Weather-App.png": "/React-Portfolio/static/media/Weather-App.82b7c531e47c872e2fb8.png",
+    "static/media/Password-Generator.png": "/React-Portfolio/static/media/Password-Generator.eb7fb2a641bb8ec25a4d.png",
     "static/media/Lindsey-Jones-Headshot.jpg": "/React-Portfolio/static/media/Lindsey-Jones-Headshot.740d1d18af82d6bd4702.jpg",
+    "static/media/Resume.png": "/React-Portfolio/static/media/Resume.5de8e88aa995248bdacb.png",
+    "static/media/Dictionary-App.png": "/React-Portfolio/static/media/Dictionary-App.a91eef241387fa767caf.png",
+    "static/media/React-Weather-App.png": "/React-Portfolio/static/media/React-Weather-App.e2a057318213c61ed78c.png",
     "index.html": "/React-Portfolio/index.html",
     "main.44f8b8b5.css.map": "/React-Portfolio/static/css/main.44f8b8b5.css.map",
-    "main.85790b7f.js.map": "/React-Portfolio/static/js/main.85790b7f.js.map"
+    "main.b26084ad.js.map": "/React-Portfolio/static/js/main.b26084ad.js.map"
   },
   "entrypoints": [
     "static/css/main.44f8b8b5.css",
-    "static/js/main.85790b7f.js"
+    "static/js/main.b26084ad.js"
   ]
 }
